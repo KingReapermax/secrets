@@ -2,6 +2,8 @@
   - browser
   - node js set up
   - postgresql server
+  - registred a project and client-id & client-secret for google OAuth (from https://console.cloud.google.com) .
+     
 ## to run:
  - create a database and a table named users containing id, email, password, and secret columns.
  - you can use ```
